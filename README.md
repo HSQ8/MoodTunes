@@ -17,3 +17,8 @@ Machine Learning Result
 
 <a href="https://github.com/HSQ8/MoodTunes/raw/master/4.PNG"><img src="https://github.com/HSQ8/MoodTunes/raw/master/4.PNG" align="left" height="400" width="200" ></a>
 Redirect to spotify using spotify API
+
+
+We learned alot about the microsoft Azure Cloud computing platform as well as android development. For 3/4 of us, it was our first time at a hackathon and we had lots of fun immersing ourselves in the environment and meeting new people.
+
+The technology companies there showed us very cool APIs which we were able to leverage in building these projects.
