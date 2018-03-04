@@ -5,14 +5,22 @@ Part of HackTech 2018
 
 
 
-![In Progress](https://github.com/HSQ8/MoodTunes/raw/master/1.PNG | width=100)
+![In Progress](https://github.com/HSQ8/MoodTunes/raw/master/1.PNG)
+
+
 Initialize
 
 ![In Progress](https://github.com/HSQ8/MoodTunes/raw/master/2.PNG)
+
+
 Load picture from camera or gallery
 
 ![In Progress](https://github.com/HSQ8/MoodTunes/raw/master/3.PNG)
+
+
 Machine Learning Result
 
 ![In Progress](https://github.com/HSQ8/MoodTunes/raw/master/4.PNG)
+
+
 Redirect to spotify using spotify API
