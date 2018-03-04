@@ -3,7 +3,7 @@ An app that predicts the type of music that best fits a mood based on visual rec
 
 Part of HackTech 2018
 
-<a href="url"><img src="https://github.com/HSQ8/MoodTunes/raw/master/1.PNG" align="left" height="100" width="40" ></a>
+<a href="https://github.com/HSQ8/MoodTunes/raw/master/1.PNG"><img src="https://github.com/HSQ8/MoodTunes/raw/master/1.PNG" align="left" height="100" width="40" ></a>
 
 ![In Progress](https://github.com/HSQ8/MoodTunes/raw/master/1.PNG)
 
