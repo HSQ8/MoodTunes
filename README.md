@@ -2,12 +2,14 @@
 An app that predicts the type of music that best fits a mood based on visual recognition of emotions through Microsoft Azure Machine Learning API. Redirects users to appropriate spotify songs via spotify API.
 
 Part of HackTech 2018
-The Initialize process
-<a href="https://github.com/HSQ8/MoodTunes/raw/master/1.PNG"><img src="https://github.com/HSQ8/MoodTunes/raw/master/1.PNG" align="left" height="400" width="200" >Initialize</a>
 
 
-Load Picture
-<a href="https://github.com/HSQ8/MoodTunes/raw/master/2.PNG"><img src="https://github.com/HSQ8/MoodTunes/raw/master/2.PNG" align="left" height="400" width="200" >Load picture from camera or gallery</a>
+
+
+<a href="https://github.com/HSQ8/MoodTunes/raw/master/1.PNG"><img src="https://github.com/HSQ8/MoodTunes/raw/master/1.PNG" class="center" height="400" width="200" >Initialize</a>
+
+
+<a href="https://github.com/HSQ8/MoodTunes/raw/master/2.PNG"><img src="https://github.com/HSQ8/MoodTunes/raw/master/2.PNG" class="center" height="400" width="200" >Load picture from camera or gallery</a>
 
 <a href="https://github.com/HSQ8/MoodTunes/raw/master/3.PNG"><img src="https://github.com/HSQ8/MoodTunes/raw/master/3.PNG" align="left" height="400" width="200" >Machine Learning Result</a>
 
