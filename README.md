@@ -6,14 +6,14 @@ Part of HackTech 2018
 
 
 
-<a href="https://github.com/HSQ8/MoodTunes/raw/master/1.PNG"><img src="https://github.com/HSQ8/MoodTunes/raw/master/1.PNG" class="center" height="400" width="200" >Initialize</a>
+<a href="https://github.com/HSQ8/MoodTunes/raw/master/1.PNG"><img src="https://github.com/HSQ8/MoodTunes/raw/master/1.PNG" class="left" height="400" width="200" >Initialize</a>
 
 
-<a href="https://github.com/HSQ8/MoodTunes/raw/master/2.PNG"><img src="https://github.com/HSQ8/MoodTunes/raw/master/2.PNG" class="center" height="400" width="200" >Load picture from camera or gallery</a>
+<a href="https://github.com/HSQ8/MoodTunes/raw/master/2.PNG"><img src="https://github.com/HSQ8/MoodTunes/raw/master/2.PNG" class="right" height="400" width="200" >Load picture from camera or gallery</a>
 
-<a href="https://github.com/HSQ8/MoodTunes/raw/master/3.PNG"><img src="https://github.com/HSQ8/MoodTunes/raw/master/3.PNG" align="left" height="400" width="200" >Machine Learning Result</a>
+<a href="https://github.com/HSQ8/MoodTunes/raw/master/3.PNG"><img src="https://github.com/HSQ8/MoodTunes/raw/master/3.PNG" class="center" height="400" width="200" >Machine Learning Result</a>
 
-<a href="https://github.com/HSQ8/MoodTunes/raw/master/4.PNG"><img src="https://github.com/HSQ8/MoodTunes/raw/master/4.PNG" align="left" height="400" width="200" >Redirect to spotify using spotify API</a>
+<a href="https://github.com/HSQ8/MoodTunes/raw/master/4.PNG"><img src="https://github.com/HSQ8/MoodTunes/raw/master/4.PNG" class="center" height="400" width="200" >Redirect to spotify using spotify API</a>
 
 
 
