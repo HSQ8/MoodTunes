@@ -3,16 +3,14 @@ An app that predicts the type of music that best fits a mood based on visual rec
 
 Part of HackTech 2018
 
-<div>
-<a href="https://github.com/HSQ8/MoodTunes/raw/master/1.PNG"><img src="https://github.com/HSQ8/MoodTunes/raw/master/1.PNG" align="left" height="400" width="200" >Initialize</a>
-</div>
-<div>
-<a href="https://github.com/HSQ8/MoodTunes/raw/master/2.PNG"><img src="https://github.com/HSQ8/MoodTunes/raw/master/2.PNG" align="left" height="400" width="200" >Load picture from camera or gallery</a>
-</div>
+...<a href="https://github.com/HSQ8/MoodTunes/raw/master/1.PNG"><img src="https://github.com/HSQ8/MoodTunes/raw/master/1.PNG" align="left" height="400" width="200" >Initialize</a>
+
+...<a href="https://github.com/HSQ8/MoodTunes/raw/master/2.PNG"><img src="https://github.com/HSQ8/MoodTunes/raw/master/2.PNG" align="left" height="400" width="200" >Load picture from camera or gallery</a>
+
 <a href="https://github.com/HSQ8/MoodTunes/raw/master/3.PNG"><img src="https://github.com/HSQ8/MoodTunes/raw/master/3.PNG" align="left" height="400" width="200" >Machine Learning Result</a>
-<br>
+
 <a href="https://github.com/HSQ8/MoodTunes/raw/master/4.PNG"><img src="https://github.com/HSQ8/MoodTunes/raw/master/4.PNG" align="left" height="400" width="200" >Redirect to spotify using spotify API</a>
-<br>
+
 
 
 We learned alot about the microsoft Azure Cloud computing platform as well as android development. For 3/4 of us, it was our first time at a hackathon and we had lots of fun immersing ourselves in the environment and meeting new people.
