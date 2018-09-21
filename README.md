@@ -6,10 +6,9 @@ Part of HackTech 2018
 
 
 
-<a href="https://github.com/HSQ8/MoodTunes/raw/master/1.PNG"><img src="https://github.com/HSQ8/MoodTunes/raw/master/1.PNG" class="left" height="400" width="200" >Initialize</a>
+<a href="https://github.com/HSQ8/MoodTunes/raw/master/1.PNG"><img src="https://github.com/HSQ8/MoodTunes/raw/master/1.PNG" class="center" height="400" width="200" >Initialize</a>
 
-
-<a href="https://github.com/HSQ8/MoodTunes/raw/master/2.PNG"><img src="https://github.com/HSQ8/MoodTunes/raw/master/2.PNG" class="right" height="400" width="200" >Load picture from camera or gallery</a>
+<a href="https://github.com/HSQ8/MoodTunes/raw/master/2.PNG"><img src="https://github.com/HSQ8/MoodTunes/raw/master/2.PNG" class="center" height="400" width="200" >Load picture from camera or gallery</a>
 
 <a href="https://github.com/HSQ8/MoodTunes/raw/master/3.PNG"><img src="https://github.com/HSQ8/MoodTunes/raw/master/3.PNG" class="center" height="400" width="200" >Machine Learning Result</a>
 
@@ -17,6 +16,11 @@ Part of HackTech 2018
 
 
 
+
+
 We learned alot about the microsoft Azure Cloud computing platform as well as android development. For 3/4 of us, it was our first time at a hackathon and we had lots of fun immersing ourselves in the environment and meeting new people.
 
 The technology companies there showed us very cool APIs which we were able to leverage in building these projects.
+
+The related Devpost can be found here
+https://devpost.com/software/moodtune
