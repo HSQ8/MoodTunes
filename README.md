@@ -5,7 +5,7 @@ Part of HackTech 2018
 
 <a href="https://github.com/HSQ8/MoodTunes/raw/master/1.PNG"><img src="https://github.com/HSQ8/MoodTunes/raw/master/1.PNG" align="left" height="400" width="200" >Initialize</a>
 
-![Initialize](https://github.com/HSQ8/MoodTunes/raw/master/1.PNG "Initialize")
+![Initialize](https://github.com/HSQ8/MoodTunes/raw/master/1.PNG "Initialize") <!-- .element height="400" width="200" -->
 
 <a href="https://github.com/HSQ8/MoodTunes/raw/master/2.PNG"><img src="https://github.com/HSQ8/MoodTunes/raw/master/2.PNG" align="left" height="400" width="200" >Load picture from camera or gallery</a>
 
